@@ -1,8 +1,5 @@
 **Nome: Talita Lima das Mercês**
 
-Disciplina: Projeto Integrador I - B
-
-Curso: Análise e Desenvolvimento de Sistemas --- Semestre 1
 
 Sobre o Projeto
 
